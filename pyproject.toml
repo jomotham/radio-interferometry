@@ -1,0 +1,11 @@
+[project]
+name = "radio-interferometry"
+version = "0.1.0"
+description = "Data processing and simluations for the HMC Advanced Lab radio interferometry experiment"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+]
+
